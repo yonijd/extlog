@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Logs generados por la herramienta
+*.log
+logs/
+
+# Archivos de desinstalacion (son del usuario, no del repo)
+desinstalador.py
+desinstalar.bat
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup
+*.bak
+*.backup
